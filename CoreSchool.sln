@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreSchool.Web", "CoreSchoo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreTest", "EFCoreTest\EFCoreTest.csproj", "{56DF9E8E-1088-48AD-BA70-437FFCE32BBE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFGetStarted.AspNetCore.NewDb", "EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb.csproj", "{E45D0CAD-898B-4767-85AA-E1A427C97E1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFGetStarted.AspNetCore.NewDb", "EFGetStarted.AspNetCore.NewDb\EFGetStarted.AspNetCore.NewDb.csproj", "{E45D0CAD-898B-4767-85AA-E1A427C97E1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "efcoreConsole2", "efcoreConsole2\efcoreConsole2.csproj", "{C93DB50D-0EB1-40B4-BBEB-4DFFD8203D87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{E45D0CAD-898B-4767-85AA-E1A427C97E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E45D0CAD-898B-4767-85AA-E1A427C97E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E45D0CAD-898B-4767-85AA-E1A427C97E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93DB50D-0EB1-40B4-BBEB-4DFFD8203D87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93DB50D-0EB1-40B4-BBEB-4DFFD8203D87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93DB50D-0EB1-40B4-BBEB-4DFFD8203D87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93DB50D-0EB1-40B4-BBEB-4DFFD8203D87}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
