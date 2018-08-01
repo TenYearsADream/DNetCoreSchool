@@ -11,5 +11,5 @@
 配置一对多关系
 ## efcoreConsole4
 配置多对多关系
-##coreApp1
+## coreApp1
 内置IOC容器注册服务
