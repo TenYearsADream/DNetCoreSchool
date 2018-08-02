@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "efcoreConsole3", "efcoreCon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "efcoreConsole4", "efcoreConsole4\efcoreConsole4.csproj", "{6B00C863-39DE-4EA0-BF93-E8135C3332B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "coreApp1", "coreApp1\coreApp1.csproj", "{D222E558-B810-4024-B166-987C0186A7B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "coreApp1", "coreApp1\coreApp1.csproj", "{D222E558-B810-4024-B166-987C0186A7B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreApp2", "CoreApp2\CoreApp2.csproj", "{196EA982-2905-42A0-AE09-C02E5D782E6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.Service", "Core.Service\Core.Service.csproj", "{0D44D101-35B4-4C70-A768-101554CC3CF1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{D222E558-B810-4024-B166-987C0186A7B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D222E558-B810-4024-B166-987C0186A7B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D222E558-B810-4024-B166-987C0186A7B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{196EA982-2905-42A0-AE09-C02E5D782E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{196EA982-2905-42A0-AE09-C02E5D782E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{196EA982-2905-42A0-AE09-C02E5D782E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{196EA982-2905-42A0-AE09-C02E5D782E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D44D101-35B4-4C70-A768-101554CC3CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D44D101-35B4-4C70-A768-101554CC3CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D44D101-35B4-4C70-A768-101554CC3CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D44D101-35B4-4C70-A768-101554CC3CF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,3 +13,6 @@
 配置多对多关系
 ## coreApp1
 内置IOC容器注册服务
+## CoreApp2 and Core.Service
+如何批量注入实现类
+如何注入自己定义的exceptionFilter
